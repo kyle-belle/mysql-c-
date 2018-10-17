@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539745752 source:c:\users\stuppzzzz\documents\mysql\main.cpp
+	<stdio.h>
+	<winsock.h>
+	<mysql.h>
+
